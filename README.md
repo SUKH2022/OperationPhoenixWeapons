@@ -27,7 +27,7 @@ Jack “Razor” Matthews, a burned-out ex-soldier, must find his inner strength
 - **Audio:** Gun range echoes, radio chatter to keep you in the zone. 🔊
 
 ### **Level 2: Desert Stronghold**  
-- **Assets:** Custom enemies (MakeHuman) in desert camo and CC0 armored jeep. 🚙  
+- **Assets:** Custom enemies (MakeHuman) in desert camo and CC0 sci-fi car. 🚙  
 - **Hazards:** Watch out for quicksand and sandstorms that affect visibility. ⏳🌪️
 
 ---
@@ -76,7 +76,7 @@ A huge thank you to these resources that helped bring **Operation Phoenix** to l
 
 - **Mixamo:** Enemy animations 🎬  
 - **Sketchfab:** Desert jeep 🏎️  
-- **Freesound:** Gunfire and radio static 🔊  
+- **Freesound/OpenGameArt :** Gunfire and radio static 🔊  
 - **Unreal Marketplace:** Military props 🪖  
 - **GitHub:** [OperationPhoenix Repository](https://github.com/SUKH2022/OperationPhoenix)
 
