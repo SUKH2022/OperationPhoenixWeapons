@@ -1,6 +1,6 @@
 # 🔥 **Operation Phoenix** 🔥
 
-**Developed by:** Sukhpreet Saini | COMP3023 - Game and Simulation
+**Developed by:** Sukhpreet Saini | COMP3023 - Game and Simulation in 5.4.4
 
 Welcome to **Operation Phoenix**! Rise from the ashes and become the hero you were destined to be. 🌟 In this action-packed game, you take on the role of Jack "Razor" Matthews, a former soldier who must save his son from the deadly Serpent Syndicate. Two missions stand between him and redemption.
 
